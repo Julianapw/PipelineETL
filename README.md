@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square\&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=flat-square\&logo=pandas)
 ![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-Columnar%20Storage-yellow?style=flat-square)
-![AWS Athena](https://img.shields.io/badge/AWS-Athena-orange?style=flat-square\&logo=amazonaws)
 
 ---
 ## Overview
