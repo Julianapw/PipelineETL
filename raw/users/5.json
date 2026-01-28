@@ -1,0 +1,70 @@
+{
+  "id": 5,
+  "firstName": "Emma",
+  "lastName": "Miller",
+  "maidenName": "Johnson",
+  "age": 31,
+  "gender": "female",
+  "email": "emma.miller@x.dummyjson.com",
+  "phone": "+91 759-776-1614",
+  "username": "emmaj",
+  "password": "emmajpass",
+  "birthDate": "1994-6-13",
+  "image": "https://dummyjson.com/icon/emmaj/128",
+  "bloodGroup": "AB-",
+  "height": 192.8,
+  "weight": 63.62,
+  "eyeColor": "Green",
+  "hair": {
+    "color": "White",
+    "type": "Straight"
+  },
+  "ip": "224.126.22.183",
+  "address": {
+    "address": "607 Fourth Street",
+    "city": "Jacksonville",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "postalCode": "26593",
+    "coordinates": {
+      "lat": 0.505589,
+      "lng": -157.43281
+    },
+    "country": "United States"
+  },
+  "macAddress": "32:b9:7e:8d:f5:e8",
+  "university": "Northeastern University",
+  "bank": {
+    "cardExpire": "07/30",
+    "cardNumber": "5237188057591130",
+    "cardType": "Mastercard",
+    "currency": "NZD",
+    "iban": "DE19182355652037133559"
+  },
+  "company": {
+    "department": "Human Resources",
+    "name": "Graham - Gulgowski",
+    "title": "Quality Assurance Engineer",
+    "address": {
+      "address": "1460 Sixth Street",
+      "city": "San Antonio",
+      "state": "Idaho",
+      "stateCode": "ID",
+      "postalCode": "21965",
+      "coordinates": {
+        "lat": 44.346545,
+        "lng": -26.944701
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "403-505",
+  "ssn": "526-210-885",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "admin"
+}

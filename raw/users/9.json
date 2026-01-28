@@ -1,0 +1,70 @@
+{
+  "id": 9,
+  "firstName": "Ethan",
+  "lastName": "Martinez",
+  "maidenName": "",
+  "age": 34,
+  "gender": "male",
+  "email": "ethan.martinez@x.dummyjson.com",
+  "phone": "+92 933-608-5081",
+  "username": "ethanm",
+  "password": "ethanmpass",
+  "birthDate": "1991-2-12",
+  "image": "https://dummyjson.com/icon/ethanm/128",
+  "bloodGroup": "AB+",
+  "height": 159.19,
+  "weight": 68.81,
+  "eyeColor": "Hazel",
+  "hair": {
+    "color": "Purple",
+    "type": "Curly"
+  },
+  "ip": "63.191.127.71",
+  "address": {
+    "address": "466 Pine Street",
+    "city": "San Antonio",
+    "state": "Louisiana",
+    "stateCode": "LA",
+    "postalCode": "72360",
+    "coordinates": {
+      "lat": 74.074918,
+      "lng": -25.312703
+    },
+    "country": "United States"
+  },
+  "macAddress": "59:e:9e:e3:29:da",
+  "university": "Syracuse University",
+  "bank": {
+    "cardExpire": "10/27",
+    "cardNumber": "3598603288061479",
+    "cardType": "JCB",
+    "currency": "GBP",
+    "iban": "GB26PND7D83JTW4HL6LZ71"
+  },
+  "company": {
+    "department": "Support",
+    "name": "Gorczany - Gottlieb",
+    "title": "Legal Counsel",
+    "address": {
+      "address": "1597 Oak Street",
+      "city": "Chicago",
+      "state": "Florida",
+      "stateCode": "FL",
+      "postalCode": "28100",
+      "coordinates": {
+        "lat": -67.45208,
+        "lng": -23.209886
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "790-434",
+  "ssn": "569-650-348",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "moderator"
+}

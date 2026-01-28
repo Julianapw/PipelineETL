@@ -1,0 +1,70 @@
+{
+  "id": 4,
+  "firstName": "James",
+  "lastName": "Davis",
+  "maidenName": "",
+  "age": 46,
+  "gender": "male",
+  "email": "james.davis@x.dummyjson.com",
+  "phone": "+49 614-958-9364",
+  "username": "jamesd",
+  "password": "jamesdpass",
+  "birthDate": "1979-5-4",
+  "image": "https://dummyjson.com/icon/jamesd/128",
+  "bloodGroup": "AB+",
+  "height": 193.31,
+  "weight": 62.1,
+  "eyeColor": "Amber",
+  "hair": {
+    "color": "Blonde",
+    "type": "Straight"
+  },
+  "ip": "101.118.131.66",
+  "address": {
+    "address": "238 Jefferson Street",
+    "city": "Seattle",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "postalCode": "68354",
+    "coordinates": {
+      "lat": 16.782513,
+      "lng": -139.34723
+    },
+    "country": "United States"
+  },
+  "macAddress": "10:7d:df:1f:97:58",
+  "university": "University of Southern California",
+  "bank": {
+    "cardExpire": "07/30",
+    "cardNumber": "5303440212268149",
+    "cardType": "Mastercard",
+    "currency": "CAD",
+    "iban": "DE01300746880579852937"
+  },
+  "company": {
+    "department": "Support",
+    "name": "Pagac and Sons",
+    "title": "Research Analyst",
+    "address": {
+      "address": "1622 Lincoln Street",
+      "city": "Fort Worth",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "postalCode": "27768",
+      "coordinates": {
+        "lat": 54.91193,
+        "lng": -79.498328
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "904-810",
+  "ssn": "116-951-314",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "admin"
+}

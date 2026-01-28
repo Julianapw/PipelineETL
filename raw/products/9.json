@@ -1,0 +1,62 @@
+{
+  "id": 9,
+  "title": "Dolce Shine Eau de",
+  "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+  "category": "fragrances",
+  "price": 69.99,
+  "discountPercentage": 0.62,
+  "rating": 3.96,
+  "stock": 4,
+  "tags": [
+    "fragrances",
+    "perfumes"
+  ],
+  "brand": "Dolce & Gabbana",
+  "sku": "FRA-DOL-DOL-009",
+  "weight": 6,
+  "dimensions": {
+    "width": 27.28,
+    "height": 29.88,
+    "depth": 18.3
+  },
+  "warrantyInformation": "3 year warranty",
+  "shippingInformation": "Ships in 1 month",
+  "availabilityStatus": "Low Stock",
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Would buy again!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "reviewerName": "Mateo Bennett",
+      "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+    },
+    {
+      "rating": 4,
+      "comment": "Highly recommended!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "reviewerName": "Nolan Gonzalez",
+      "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+    },
+    {
+      "rating": 5,
+      "comment": "Very happy with my purchase!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "reviewerName": "Aurora Lawson",
+      "reviewerEmail": "aurora.lawson@x.dummyjson.com"
+    }
+  ],
+  "returnPolicy": "7 days return policy",
+  "minimumOrderQuantity": 2,
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.053Z",
+    "updatedAt": "2025-04-30T09:41:02.053Z",
+    "barcode": "3023868210708",
+    "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+}

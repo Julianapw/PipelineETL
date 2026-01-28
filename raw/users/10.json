@@ -1,0 +1,70 @@
+{
+  "id": 10,
+  "firstName": "Isabella",
+  "lastName": "Anderson",
+  "maidenName": "Davis",
+  "age": 32,
+  "gender": "female",
+  "email": "isabella.anderson@x.dummyjson.com",
+  "phone": "+49 770-658-4885",
+  "username": "isabellad",
+  "password": "isabelladpass",
+  "birthDate": "1993-6-10",
+  "image": "https://dummyjson.com/icon/isabellad/128",
+  "bloodGroup": "A-",
+  "height": 150.56,
+  "weight": 50.1,
+  "eyeColor": "Brown",
+  "hair": {
+    "color": "Blonde",
+    "type": "Curly"
+  },
+  "ip": "114.9.114.205",
+  "address": {
+    "address": "1964 Oak Street",
+    "city": "New York",
+    "state": "Utah",
+    "stateCode": "UT",
+    "postalCode": "89352",
+    "coordinates": {
+      "lat": 41.331324,
+      "lng": 151.782727
+    },
+    "country": "United States"
+  },
+  "macAddress": "b1:b0:d0:a2:82:80",
+  "university": "California Institute of Technology (Caltech)",
+  "bank": {
+    "cardExpire": "03/30",
+    "cardNumber": "3602093733952858",
+    "cardType": "Diners Club International",
+    "currency": "USD",
+    "iban": "DE12934874962442340025"
+  },
+  "company": {
+    "department": "Marketing",
+    "name": "Pollich - Hilpert",
+    "title": "Chief Financial Officer",
+    "address": {
+      "address": "1029 Adams Street",
+      "city": "San Diego",
+      "state": "Maryland",
+      "stateCode": "MD",
+      "postalCode": "63847",
+      "coordinates": {
+        "lat": -25.843393,
+        "lng": -62.692681
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "127-297",
+  "ssn": "902-438-728",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "moderator"
+}

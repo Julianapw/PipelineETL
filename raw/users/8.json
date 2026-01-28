@@ -1,0 +1,70 @@
+{
+  "id": 8,
+  "firstName": "Ava",
+  "lastName": "Taylor",
+  "maidenName": "",
+  "age": 28,
+  "gender": "female",
+  "email": "ava.taylor@x.dummyjson.com",
+  "phone": "+1 458-853-7877",
+  "username": "avat",
+  "password": "avatpass",
+  "birthDate": "1997-8-25",
+  "image": "https://dummyjson.com/icon/avat/128",
+  "bloodGroup": "AB-",
+  "height": 168.47,
+  "weight": 57.08,
+  "eyeColor": "Hazel",
+  "hair": {
+    "color": "Red",
+    "type": "Kinky"
+  },
+  "ip": "150.73.197.233",
+  "address": {
+    "address": "1197 First Street",
+    "city": "Fort Worth",
+    "state": "Rhode Island",
+    "stateCode": "RI",
+    "postalCode": "24771",
+    "coordinates": {
+      "lat": -81.194833,
+      "lng": -87.948158
+    },
+    "country": "United States"
+  },
+  "macAddress": "8d:2e:c2:d6:e7:a8",
+  "university": "University of Wisconsin--Madison",
+  "bank": {
+    "cardExpire": "08/30",
+    "cardNumber": "5349974103330333",
+    "cardType": "Mastercard",
+    "currency": "EUR",
+    "iban": "FR94ZM2MMGL1EVYQE1ZLCVCFH83"
+  },
+  "company": {
+    "department": "Marketing",
+    "name": "Nikolaus Inc",
+    "title": "Chief Executive Officer",
+    "address": {
+      "address": "930 Lincoln Street",
+      "city": "Austin",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "postalCode": "47592",
+      "coordinates": {
+        "lat": 87.970083,
+        "lng": -42.769351
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "297-762",
+  "ssn": "257-419-109",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "moderator"
+}
